@@ -210,11 +210,13 @@ body {
     border-left: 4px solid #41F6D7;
 }
 
-.main-menu:has(.main-menu__title:hover) .main-menu__title--active>a:not(:hover) {
+.main-menu:has(.main-menu__title:hover) .main-menu__title--active a:not(:hover) {
     color: #1B1C21;
+    margin-left: 0px;
+
 }
 
-.main-menu__title--active>a {
+.main-menu__title--active a {
     color: #7E7E82;
     margin-left: -4px;
 }
