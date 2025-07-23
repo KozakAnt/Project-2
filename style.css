@@ -167,7 +167,7 @@ body {
 }
 
 .header-menu__icon--search {
-    background-image: url("./main-menu/__icon/search.svg");
+    background-image: url("../main-menu/__icon/search.svg");
 }
 
 .header-menu li {
@@ -229,15 +229,15 @@ body {
 
 
 .footer-menu__icon--phone {
-    background-image: url("./footer-menu/__icon/phone.svg");
+    background-image: url("../footer-menu/__icon/phone.svg");
 }
 
 .footer-menu__icon--chat {
-    background-image: url("./footer-menu/__icon/chat.svg");
+    background-image: url("../footer-menu/__icon/chat.svg");
 }
 
 .footer-menu__icon--profile {
-    background-image: url("./footer-menu/__icon/profile.svg");
+    background-image: url("../footer-menu/__icon/profile.svg");
 }
 
 .footer-menu__contacts--email {
