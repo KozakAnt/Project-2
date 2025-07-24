@@ -81,7 +81,7 @@ body {
 
 
 .header-menu__icon--burger {
-    background-image: url("../main-menu/__icon/burger.svg");
+    background-image: url("./burger.svg");
 }
 
 .header-menu__icon--logo {
@@ -90,7 +90,7 @@ body {
 }
 
 .header-menu__icon--search {
-    background-image: url("../main-menu/__icon/search.svg");
+    background-image: url("./search.svg");
 }
 
 .header-menu li {
@@ -113,7 +113,7 @@ body {
     align-items: center;
 }
 
-.main-menu__title>a {
+.main-menu__title a {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -166,15 +166,15 @@ body {
 
 
 .footer-menu__icon--phone {
-    background-image: url("../footer-menu/__icon/phone.svg");
+    background-image: url("./phone.svg");
 }
 
 .footer-menu__icon--chat {
-    background-image: url("../footer-menu/__icon/chat.svg");
+    background-image: url("./chat.svg");
 }
 
 .footer-menu__icon--profile {
-    background-image: url("../footer-menu/__icon/profile.svg");
+    background-image: url("./profile.svg");
 }
 
 .footer-menu__contacts--email {
