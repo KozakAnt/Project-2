@@ -91,24 +91,8 @@ h6 {
 
 
 
-@font-face {
-    font-family: "tt_lakes";
-    src: url("./fonts/TTLakes/TTLakes-Regular.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "tt_lakes";
-    src: url("./fonts/TTLakes/TTLakes-Bold.woff") format("woff");
-    font-weight: 700;
-    font-style: normal;
-}
-
 body {
     max-width: 320px;
-    font-family: "tt_lakes";
-
 }
 
 .wrapper {
