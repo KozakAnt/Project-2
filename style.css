@@ -28,14 +28,14 @@ ul li {
 
 @font-face {
     font-family: "tt_lakes";
-    src: url("../fonts/TTLakes/TTLakes-Regular.woff") format("woff");
+    src: url("./fonts/TTLakes/TTLakes-Regular.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "tt_lakes";
-    src: url("../fonts/TTLakes/TTLakes-Bold.woff") format("woff");
+    src: url("./fonts/TTLakes/TTLakes-Bold.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
