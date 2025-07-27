@@ -1,4 +1,4 @@
-/*Обнуление*/
+/* Обнуление*/
 html {
     box-sizing: border-box;
 }
@@ -164,10 +164,20 @@ body {
     margin-right: 10px;
 }
 
+.footer-menu__contacts {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+
 
 .footer-menu__icon--phone {
     background-image: url("./phone.svg");
 }
+
+
 
 .footer-menu__icon--chat {
     background-image: url("./chat.svg");
@@ -185,11 +195,23 @@ body {
     margin: 10px 0;
 }
 
+.footer-menu__contacts--email:hover {
+    cursor: pointer;
+    color: #7E7E82;
+    transition: 0.5s ease;
+}
+
 .footer-menu__contacts--phone {
     font-weight: 700;
     font-size: 24px;
     line-height: 32px;
     letter-spacing: -0.6px;
+}
+
+.footer-menu__contacts--phone:hover {
+    cursor: pointer;
+    color: #7E7E82;
+    transition: 0.5s ease;
 }
 
 .footer-menu__languages {
